@@ -1,4 +1,4 @@
-// Copyright 2018 The go-tstereum Authors
+// Copyright 2018 The go-ethereum Authors
 // This file is part of the go-tstereum library.
 //
 // The go-tstereum library is free software: you can redistribute it and/or modify

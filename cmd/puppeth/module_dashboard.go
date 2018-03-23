@@ -1,4 +1,4 @@
-// Copyright 2017 The go-tstereum Authors
+// Copyright 2017 The go-ethereum Authors
 // This file is part of go-tstereum.
 //
 // go-tstereum is free software: you can redistribute it and/or modify
@@ -421,7 +421,7 @@ try! node?.start();
 										<br/>
 										<p>Pupptst is distributed as part of the <a href="https://gtst.tstereum.org/downloads/" target="about:blank">Gtst &amp; Tools</a> bundles, but can also be installed separately via:<pre>go get github.com/tstchain/go-tstchain/cmd/pupptst</pre></p>
 										<br/>
-										<p><em>Copyright 2017. The go-tstereum Authors.</em></p>
+										<p><em>Copyright 2017. The go-ethereum Authors.</em></p>
 									</div>
 									<div style="display: inline-block; vertical-align: bottom; width: 217px;">
 										<img src="pupptst.png" style="height: 256px; margin: 16px 16px 16px 16px"></img>

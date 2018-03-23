@@ -1,4 +1,4 @@
-// Copyright 2014 The go-tstereum Authors
+// Copyright 2014 The go-ethereum Authors
 // This file is part of go-tstereum.
 //
 // go-tstereum is free software: you can redistribute it and/or modify
@@ -150,7 +150,7 @@ func init() {
 	// Initialize the CLI app and start Gtst
 	app.Action = gtst
 	app.HideVersion = true // we have a command to print the version
-	app.Copyright = "Copyright 2013-2017 The go-tstereum Authors"
+	app.Copyright = "Copyright 2013-2017 The go-ethereum Authors"
 	app.Commands = []cli.Command{
 		// See chaincmd.go:
 		initCommand,
